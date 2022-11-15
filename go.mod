@@ -1,3 +1,3 @@
-module k3y0708/crayon
+module github.com/hContainers/crayon
 
 go 1.19
