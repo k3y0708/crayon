@@ -5,7 +5,7 @@ Crayon is small module for colorizing strings in golang for terminal output.
 ## Installation
 
 ```bash
-go get github.com/hContainers/crayon
+go get github.com/k3y0708/crayon
 ```
 
 # Usage
